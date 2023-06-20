@@ -111,7 +111,7 @@ ul{
     padding: 0;
 }
 a {
-    color: #11d6f0;
+    color: #f93e3e;
     text-decoration: none;
     outline: none;
     -webkit-transition: all 0.3s ease-in-out;
@@ -525,7 +525,7 @@ img {
 }
 #preloader-circle span {
     position:absolute;
-    border: 8px solid #11d6f0;
+    border: 8px solid #f01111;
     border-top: 8px solid transparent;
     border-radius:999px;
 }
@@ -669,7 +669,7 @@ img {
 }
 
 .site-title span {
-    color: #11d6f0;
+    color: #f01111;
 }
 
 /* Main menu */
@@ -709,7 +709,7 @@ img {
     margin-bottom: 8px;
 }
 .header-main-menu li a i {
-    background-color: #11d6f0;
+    background-color: #f01111;
     color: #fff;
     border-radius: 100%;
     width: 30px;
@@ -841,7 +841,7 @@ span.typed {
         width: 100%; 
         padding: 12px 15px;
         display: block; 
-        color: #11d6f0;
+        color: #f01111;
         box-shadow: 0 3px 6px 3px rgba(0, 0, 0, .06);
     }
     .responsive-header-name {
@@ -906,7 +906,7 @@ span.typed {
     right: 0;
     left: 0;
     bottom: 0;
-    background: rgba(14, 14, 14, 0.24);
+    background-image: url("img/315354.jpg");
 }
 
 .start-page .title-block {
@@ -1149,8 +1149,8 @@ span.typed {
     margin-right: 15px;
     transition: .3s;
     box-shadow: 2px 2px 20px rgba(0,0,0,.1);
-    background: #11d6f0;
-    border: 1px solid #11d6f0;
+    background: #f01111;
+    border: 1px solid #f01111;
     color: #fff;
 }
 .bout-list-summry li .icon-info i{
@@ -1188,12 +1188,12 @@ span.typed {
     width: 50px;
 }
 .special-block-bg::before {
-    border-color: #11d6f0 rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #11d6f0;
+    border-color: #f01111 rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #f01111;
     left: 0;
     top: 0;
 }
 .special-block-bg::after {
-    border-color: rgba(0, 0, 0, 0) #11d6f0 #11d6f0 rgba(0, 0, 0, 0);
+    border-color: rgba(0, 0, 0, 0) #f01111 #f01111 rgba(0, 0, 0, 0);
     bottom: 0;
     right: 0;
 }
@@ -1261,7 +1261,7 @@ span.typed {
     margin: 80px 0 60px 0;
 }
 .overlay {
-    background: linear-gradient(-45deg,rgba(88, 195, 255,.8) 0,#11d6f0 40%,rgb(176, 236, 243) 100%);
+    background: linear-gradient(-45deg,rgba(255, 88, 88, 0.8) 0,#f01111 40%,rgb(176, 236, 243) 100%);
     height: 100%;
     width: 100%;
     padding: 80px 30px;
