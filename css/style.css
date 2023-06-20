@@ -1967,7 +1967,7 @@ button.owl-dot.active,  button.owl-dot:focus{
     line-height: 20px;
     color: #fff;
     text-align: center;
-    background-color: #11d6f0;
+    background-color: #f01111;
     -webkit-transition: width .6s ease;
     -o-transition: width .6s ease;
     transition: width .6s ease;
@@ -2640,7 +2640,7 @@ textarea{
     height: 60px;
     line-height: 60px;
     color: #fff;
-    background: #11d6f0;
+    background: #f01111;
     border-radius: 100%;
     box-shadow: 2px 2px 20px rgba(0,0,0,.05);
     -webkit-transition: all 0.2s ease-in-out;
@@ -2742,7 +2742,7 @@ textarea{
     -o-box-shadow: 0 12px 17px rgba(0,0,0,.12);
     box-shadow: 0 12px 17px rgba(0,0,0,.12);
     color: #fff;
-    background: #11d6f0;
+    background: #f01111;
 }
 @media (max-width: 767px) {
     .contact-form {
@@ -2828,7 +2828,7 @@ textarea{
     margin-right: 15px;  
 }
 .post-meta li:hover, .post-meta li a:hover{
-    color: #11d6f0;
+    color: #f01111;
 }
 .blog-page h4.headline {
     font-size: 22px!important;
@@ -2881,7 +2881,7 @@ blockquote {
 }
 
 #posts-nav li a:hover {
-    color: #11d6f0;
+    color: #f01111;
 }
 
 #posts-nav li.next-post {
@@ -3135,7 +3135,7 @@ blockquote {
 .comment-by a.reply:hover,
 .comment-by a.reply:hover i {
     color: #fff;
-    background-color: #11d6f0;
+    background-color: #f01111;
 }
 
 .comment-by span.date {
@@ -3254,12 +3254,12 @@ blockquote {
     padding-left: 15px;
 }
 .search-blog-input input:hover,  .search-blog-input input:focus{
-    border: 1px solid #11d6f0;
+    border: 1px solid #f01111;
 }
 .widget .search-blog-input .input:before {
     content: "\f002";
     font-size: 15px;
-    color: #11d6f0;
+    color: #f01111;
     position: absolute;
     display: inline-block;
     font-family: "FontAwesome";
@@ -3313,7 +3313,7 @@ blockquote {
 }
 
 .widget-text h5 a:hover {
-    color: #11d6f0;
+    color: #f01111;
 }
 
 .widget-text span {
@@ -3401,7 +3401,7 @@ blockquote {
 }
 
 .widget .categories-list li a:hover {
-    color: #00bcd4
+    color: #d40000
 }
 
 .widget .categories-list li a i {
@@ -3425,8 +3425,8 @@ blockquote {
     background-color: #fff;
 }
 .tagcloud a:hover{
-    background-color: #11d6f0;
-    border: 1px solid #11d6f0;
+    background-color: #f01111;
+    border: 1px solid #f01111;
     color: #fff;
 }
 @media only screen and (max-width: 768px) {
@@ -3527,7 +3527,7 @@ blockquote {
     margin: 40px 0;
 }
 .portfolio-head-content {
-    background-color: rgba(17, 214, 240, 0.65);
+    background-color: rgba(240, 17, 17, 0.65);
     color: rgb(255, 255, 255);
     display: flex;
     flex-direction: column;
@@ -3723,7 +3723,7 @@ blockquote {
     padding: 0;
     border-radius: 0 30px 30px 0;
     color: #fff;
-    background-color: #11d6f0;
+    background-color: #f01111;
 }
 
 .error-content .description {
@@ -3732,7 +3732,7 @@ blockquote {
 }
 
 .error-content .description a {
-    color: #11d6f0
+    color: #f01111
 }
 @media(max-width:768px) {
     .error-content .error-message h2 {
@@ -3809,7 +3809,7 @@ blockquote {
 .list-appointments li.available i {
     background: linear-gradient(
 135deg
-,#11d6f0,#6ceeff,#11d6f0,#ccc,#6ceeff);
+,#f01111,#ff6c6c,#f01111,#ccc,#ff6c6c);
 }
 .list-appointments li.not-available span{
     color: #d7d7d6!important;
