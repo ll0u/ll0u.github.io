@@ -906,7 +906,7 @@ span.typed {
     right: 0;
     left: 0;
     bottom: 0;
-    background-image: url("../img/315354.jpg");
+    background-image: url(../img/315354.jpg);
 }
 
 .start-page .title-block {
@@ -2700,7 +2700,7 @@ textarea{
     right: 0;
 }
 .social-media-block::before {
-    border-color: #11d6f0 rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #11d6f0;
+    border-color: #f01111 rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #11d6f0;
     left: 0;
     top: 0;
 }
